@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>张小三</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>胡汉三</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>燕小六</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>刘大飞</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>德玛西亚</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>大保健</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>亚索</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>娜美</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>乔巴</key>
+        <string>dsaffsa</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>亚麻跌</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>亚军</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>六扇门</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>关云长</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>关云短</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+    
+    <dict>
+        <key>name</key>
+        <string>张大二</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>	<dict>
+        <key>是亚军</key>
+        <string>张小三</string>
+        <key>number</key>
+        <string>132747930328</string>
+    </dict>
+   </array>
+</plist>
